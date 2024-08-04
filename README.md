@@ -55,8 +55,9 @@ Stock_Price_Visualizations.png(2) : https://github.com/Sainandan0511/Sai-Nandan-
 
 #### Namma Yatri Dash Board 
 Designed and developed a comprehensive Power BI dashboard for Namma Yatri, a transportation service in Hyderabad. The dashboard includes visually appealing number cards to present key metrics, insightful line charts to track trends, an interactive table for detailed area selection, and a map with bubble sizes representing search volumes. This project showcases the ability to create engaging and informative visualizations that facilitate data-driven decision-making. 
-Namma_Yatri_PowerBI_Visualizations.png(1) :
-Namma_Yatri_PowerBI_Visualizations.png(2) :
+Namma_Yatri_PowerBI_Visualizations.png(1) : https://github.com/Sainandan0511/Sai-Nandan-Sambu/commit/e7ad719328a1548d96ed7909bd6f2d89cfe896d0
+Namma_Yatri_PowerBI_Visualizations.png(2) :  https://github.com/Sainandan0511/Sai-Nandan-Sambu/commit/e7ad719328a1548d96ed7909bd6f2d89cfe896d0
+
 
 ## Education
 - **Osmania University** (2022-2024)
