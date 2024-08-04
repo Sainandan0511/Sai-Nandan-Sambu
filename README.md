@@ -40,7 +40,7 @@ Analyzed and visualized a large dataset of resale car prices. Implemented and ev
 Currently working on identifying tweets about real disasters. Implementing machine learning methods such as Naïve Bayes, SVM, KNN, and BERT. Evaluating and comparing the performance of these models to accurately distinguish real disaster tweets from those using similar keywords metaphorically. This project aims to enhance real-time information delivery to disaster response teams.
 
 ### SQL
-
+Code : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/sql%20project.sql
 #### Namma Yatri Transportation Service Analysis
 Utilized SQL to explore and analyze data for Namma Yatri, a transportation service in Hyderabad. This involved deep data exploration, identifying key metrics, and deriving insights from the dataset. The insights gathered from SQL analysis were then visualized using Power BI to create a comprehensive dashboard that includes number cards, line charts, interactive tables, and a map with bubble sizes representing search volumes.
 
