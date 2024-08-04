@@ -6,3 +6,4 @@ I have hands-on experience with tools like Python, MS Excel, SQL, and Power BI, 
 Beyond technical skills, I bring strong analytical thinking, effective communication abilities, and a collaborative mindset. I'm eager to apply my knowledge and skills in an entry-level data analyst position to contribute to impactful projects and continue learning in a professional environment.
 
 Feel free to explore my projects and reach out to me at nandansambu511@gmail.com. Let's connect and discuss how we can leverage data to solve real-world challenges!
+
