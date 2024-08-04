@@ -48,9 +48,9 @@ Utilized SQL to explore and analyze data for Namma Yatri, a transportation servi
 #### Stock Price Comparison Excel Dashboard
 Developed a dynamic Excel dashboard to compare stock prices of Apple, Google, and Microsoft. Utilized advanced functions like INDEX and MATCH for detailed data analysis. Integrated dropdown lists to select columns such as Closing price, Opening price, High price, Low price, Adjusted close price, and Volume. Created individual price charts for each company and designed a comprehensive chart comparing stock prices of all three companies.
 
-# Stock_Price_Visualizations.png(1) : https://github.com/Sainandan0511/Sai-Nandan-Sambu/commit/e7ad719328a1548d96ed7909bd6f2d89cfe896d0
+# Stock_Price_Visualizations.png(1) : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/Screenshot%20(7).png
 
-# Stock_Price_Visualizations.png(2) : https://github.com/Sainandan0511/Sai-Nandan-Sambu/commit/e7ad719328a1548d96ed7909bd6f2d89cfe896d0
+# Stock_Price_Visualizations.png(2) : 
 
 
 ### Power BI
