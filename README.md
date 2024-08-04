@@ -34,6 +34,7 @@ I have hands-on experience with tools like Python, MS Excel, SQL, and Power BI, 
 
 #### Car Price Prediction Using Machine Learning
 Code : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/Car%20Price%20Prediction%20.py
+
 Analyzed and visualized a large dataset of resale car prices. Implemented and evaluated Linear Regression, Decision Tree and Gradient Boosting models for price prediction. Achieved the highest accuracy of 92% with Gradient Boosting. Validated model performance through comparison of predicted and actual prices, identifying critical factors influencing car prices.
 
 #### Disaster Tweets Classification
@@ -42,6 +43,7 @@ Currently working on identifying tweets about real disasters. Implementing machi
 ### SQL
 #### Namma Yatri Analysis
 Code : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/sql%20project.sql
+
 Utilized SQL to explore and analyze data for Namma Yatri, a transportation service in Hyderabad. This involved deep data exploration, identifying key metrics, and deriving insights from the dataset. The insights gathered from SQL analysis were then visualized using Power BI to create a comprehensive dashboard that includes number cards, line charts, interactive tables and a map with bubble sizes representing search volumes.
 
 ### Excel / Google Sheets
