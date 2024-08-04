@@ -33,7 +33,7 @@ I have hands-on experience with tools like Python, MS Excel, SQL, and Power BI, 
 ### Python
 
 #### Car Price Prediction Using Machine Learning
-
+Code : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/Car%20Price%20Prediction%20.py
 Analyzed and visualized a large dataset of resale car prices. Implemented and evaluated Linear Regression, Decision Tree, and Gradient Boosting models for price prediction. Achieved the highest accuracy of 92% with Gradient Boosting. Validated model performance through comparison of predicted and actual prices, identifying critical factors influencing car prices.
 
 #### Disaster Tweets Classification
