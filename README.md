@@ -47,16 +47,19 @@ Utilized SQL to explore and analyze data for Namma Yatri, a transportation servi
 ### Excel / Google Sheets
 #### Stock Price Comparison Excel Dashboard
 Developed a dynamic Excel dashboard to compare stock prices of Apple, Google, and Microsoft. Utilized advanced functions like INDEX and MATCH for detailed data analysis. Integrated dropdown lists to select columns such as Closing price, Opening price, High price, Low price, Adjusted close price, and Volume. Created individual price charts for each company and designed a comprehensive chart comparing stock prices of all three companies.
-Stock_Price_Visualizations.png(1) : https://github.com/Sainandan0511/Sai-Nandan-Sambu/commit/e7ad719328a1548d96ed7909bd6f2d89cfe896d0
-Stock_Price_Visualizations.png(2) : https://github.com/Sainandan0511/Sai-Nandan-Sambu/commit/e7ad719328a1548d96ed7909bd6f2d89cfe896d0
+
+# Stock_Price_Visualizations.png(1) : https://github.com/Sainandan0511/Sai-Nandan-Sambu/commit/e7ad719328a1548d96ed7909bd6f2d89cfe896d0
+
+# Stock_Price_Visualizations.png(2) : https://github.com/Sainandan0511/Sai-Nandan-Sambu/commit/e7ad719328a1548d96ed7909bd6f2d89cfe896d0
 
 
 ### Power BI
 
 #### Namma Yatri Dash Board 
 Designed and developed a comprehensive Power BI dashboard for Namma Yatri, a transportation service in Hyderabad. The dashboard includes visually appealing number cards to present key metrics, insightful line charts to track trends, an interactive table for detailed area selection, and a map with bubble sizes representing search volumes. This project showcases the ability to create engaging and informative visualizations that facilitate data-driven decision-making. 
-Namma_Yatri_PowerBI_Visualizations.png(1) : https://github.com/Sainandan0511/Sai-Nandan-Sambu/commit/e7ad719328a1548d96ed7909bd6f2d89cfe896d0
-Namma_Yatri_PowerBI_Visualizations.png(2) :  https://github.com/Sainandan0511/Sai-Nandan-Sambu/commit/e7ad719328a1548d96ed7909bd6f2d89cfe896d0
+
+# Namma_Yatri_PowerBI_Visualizations.png(1) : 
+# Namma_Yatri_PowerBI_Visualizations.png(2) :  
 
 
 ## Education
