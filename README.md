@@ -78,6 +78,6 @@ Designed and developed a comprehensive Power BI dashboard for Namma Yatri, a tra
 ## Contact
 - **Cell**: 7032128204
 - **Email**: nandansambu511@gmail.com
-- **Address**: Gadwal, Telangana, India
+- **Address**: Hyderabad, Telangana, India
 
 Feel free to explore my projects and reach out to me for collaboration or opportunities!
