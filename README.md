@@ -41,7 +41,7 @@ Currently working on identifying tweets about real disasters. Implementing machi
 
 ### SQL
 Code : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/sql%20project.sql
-#### Namma Yatri Transportation Service Analysis
+#### Namma Yatri Analysis
 Utilized SQL to explore and analyze data for Namma Yatri, a transportation service in Hyderabad. This involved deep data exploration, identifying key metrics, and deriving insights from the dataset. The insights gathered from SQL analysis were then visualized using Power BI to create a comprehensive dashboard that includes number cards, line charts, interactive tables, and a map with bubble sizes representing search volumes.
 
 ### Excel / Google Sheets
@@ -51,7 +51,8 @@ Developed a dynamic Excel dashboard to compare stock prices of Apple, Google, an
 
 ### Power BI
 
-Additional details about your Power BI projects can go here, if applicable.
+#### Namma Yatri Dash Board 
+Designed and developed a comprehensive Power BI dashboard for Namma Yatri, a transportation service in Hyderabad. The dashboard includes visually appealing number cards to present key metrics, insightful line charts to track trends, an interactive table for detailed area selection, and a map with bubble sizes representing search volumes. This project showcases the ability to create engaging and informative visualizations that facilitate data-driven decision-making. 
 
 ## Education
 - **Osmania University** (2022-2024)
