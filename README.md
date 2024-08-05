@@ -44,6 +44,7 @@ Currently working on identifying tweets about real disasters. Implementing machi
 ### SQL
 #### Namma Yatri Analysis
 Code(1) : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/sql%20project.sql 
+
 Code(2) :https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/trips.sql
 
 Utilized SQL to explore and analyze data for Namma Yatri, a transportation service in Hyderabad. This involved deep data exploration, identifying key metrics, and deriving insights from the dataset. The insights gathered from SQL analysis were then visualized using Power BI to create a comprehensive dashboard that includes number cards, line charts, interactive tables and a map with bubble sizes representing search volumes.
@@ -53,6 +54,7 @@ Utilized SQL to explore and analyze data for Namma Yatri, a transportation servi
 Developed a dynamic Excel dashboard to compare stock prices of Apple, Google, and Microsoft. Utilized advanced functions like INDEX and MATCH for detailed data analysis. Integrated dropdown lists to select columns such as Closing price, Opening price, High price, Low price, Adjusted close price and Volume. Created individual price charts for each company and designed a comprehensive chart comparing stock prices of all three companies.
 
  Stock_Price_Visualizations.png(1) : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/Screenshot%20(7).png
+ 
  Stock_Price_Visualizations.png(2) : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/Screenshot%20(8).png
 
 
@@ -62,6 +64,7 @@ Developed a dynamic Excel dashboard to compare stock prices of Apple, Google, an
 Designed and developed a comprehensive Power BI dashboard for Namma Yatri, a transportation service in Hyderabad. The dashboard includes visually appealing number cards to present key metrics, insightful line charts to track trends, an interactive table for detailed area selection and a map with bubble sizes representing search volumes. This project showcases the ability to create engaging and informative visualizations that facilitate data-driven decision-making. 
 
  Namma_Yatri_PowerBI_Visualizations.png(1) : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/Screenshot%20(9).png
+
  Namma_Yatri_PowerBI_Visualizations.png(2) : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/Screenshot%20(10).png
 
 
