@@ -76,9 +76,9 @@ Designed and developed a comprehensive Power BI dashboard for Namma Yatri, a tra
 
 ## Certificates
 - **Cognitiveclass.ai, powered by IBM’s** – Python 101 for Data Science (12/2023 – Present)
-- certificate : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/IBM%20PY0101EN%20Certificate%20_%20Cognitive%20Class.pdf
+- Certificate : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/IBM%20PY0101EN%20Certificate%20_%20Cognitive%20Class.pdf
 - **Cisco Networking Academy** – Data Analytics Essentials (06/2024 – Present)
-- certificate : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/Data_Analytics_Essentials_Badge20240623-6-menzj1.pdf
+- Certificate : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/Data_Analytics_Essentials_Badge20240623-6-menzj1.pdf
 - **Mahindra Pride Classroom** – Employability Skill Development Training Program (2021 – Present)
 
 ## Contact
