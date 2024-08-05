@@ -15,10 +15,11 @@ Feel free to explore my projects and reach out to me at nandansambu511@gmail.com
     - [Car Price Prediction Using Machine Learning](#car-price-prediction-using-machine-learning)
     - [Disaster Tweets Classification](#disaster-tweets-classification)
   - [SQL](#sql)
-    - [Namma Yatri Transportation Service Analysis](#namma-yatri-transportation-service-analysis)
+    - [Namma Yatri  Analysis](#namma-yatri-analysis)
   - [Excel / Google Sheets](#excel--google-sheets)
     - [Stock Price Comparison Excel Dashboard](#stock-price-comparison-excel-dashboard)
   - [Power BI](#power-bi)
+    - [Namma Yatri Dashboard](#namma-yatri-dashboard)  
 - [Education](#education)
 - [Certificates](#certificates)
 - [Contact](#contact)
@@ -42,9 +43,8 @@ Currently working on identifying tweets about real disasters. Implementing machi
 
 ### SQL
 #### Namma Yatri Analysis
-Code : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/sql%20project.sql 
-
-https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/trips.sql
+Code(1) : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/sql%20project.sql 
+Code(2) :https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/trips.sql
 
 Utilized SQL to explore and analyze data for Namma Yatri, a transportation service in Hyderabad. This involved deep data exploration, identifying key metrics, and deriving insights from the dataset. The insights gathered from SQL analysis were then visualized using Power BI to create a comprehensive dashboard that includes number cards, line charts, interactive tables and a map with bubble sizes representing search volumes.
 
@@ -53,7 +53,6 @@ Utilized SQL to explore and analyze data for Namma Yatri, a transportation servi
 Developed a dynamic Excel dashboard to compare stock prices of Apple, Google, and Microsoft. Utilized advanced functions like INDEX and MATCH for detailed data analysis. Integrated dropdown lists to select columns such as Closing price, Opening price, High price, Low price, Adjusted close price and Volume. Created individual price charts for each company and designed a comprehensive chart comparing stock prices of all three companies.
 
  Stock_Price_Visualizations.png(1) : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/Screenshot%20(7).png
-
  Stock_Price_Visualizations.png(2) : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/Screenshot%20(8).png
 
 
