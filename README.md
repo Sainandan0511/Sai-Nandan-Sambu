@@ -42,7 +42,9 @@ Currently working on identifying tweets about real disasters. Implementing machi
 
 ### SQL
 #### Namma Yatri Analysis
-Code : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/sql%20project.sql
+Code : https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/sql%20project.sql 
+
+https://github.com/Sainandan0511/Sai-Nandan-Sambu/blob/main/trips.sql
 
 Utilized SQL to explore and analyze data for Namma Yatri, a transportation service in Hyderabad. This involved deep data exploration, identifying key metrics, and deriving insights from the dataset. The insights gathered from SQL analysis were then visualized using Power BI to create a comprehensive dashboard that includes number cards, line charts, interactive tables and a map with bubble sizes representing search volumes.
 
